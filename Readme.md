@@ -8,7 +8,7 @@
 
 
 - 🔭 I am honing my dev and python skills.
-- 🌱 I am currently learning Python/Django 
+- 🌱 I am currently learning Asp.Net
 - 👯 I’m looking to collaborate in web dev projects
 - 💬 Ask me About Web development and Web Technolgies.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjyo77@gmail.com)](mailto:arjyo77@gmail.com) 
@@ -57,5 +57,6 @@
 <a href="https://leetcode.com/arjyo77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjyo851" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arjyo77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arjyo851" height="30" width="40" /></a>
 </p>
+
 
 
